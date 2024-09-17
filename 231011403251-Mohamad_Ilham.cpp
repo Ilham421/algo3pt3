@@ -21,7 +21,7 @@ int main(void)
     }
     cout << endl;
 
-    cout << "NIM: ";
+    cout << "NIM ";
     for (int iNim = 1; iNim <= 1; iNim++)
     {
         cout << *pNim;
